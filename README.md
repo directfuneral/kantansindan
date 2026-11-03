@@ -3,7 +3,7 @@
 はい・いいえを選ぶだけで、約5分で「今のあなたに必要な終活の準備」がわかる無料の簡易診断です。
 個人情報の入力は不要です。
 
-**▶ 診断をはじめる：https://directfuneral.github.io/shukatsu-shindan/**
+**▶ 診断をはじめる：https://directfuneral.github.io/kantansindan/**
 
 ---
 
